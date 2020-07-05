@@ -1,0 +1,30 @@
+Guidelines :
+
+ 
+
+1) Use ES6 while writing the code.
+
+2) Create folder structure as taught in ReactJS session.
+3) Breakdown the screen design into small components and try to create reusable components instead of writing the same code more than one time.
+4) Use appropriate component lifecycle methods for API call.
+
+5) Wherever require use React concepts like Refs, List, PropTypes, HOC’s, Fragments, Context API,
+6) Try to use Hooks in functional component for State Management.
+7) Try to avoid rendering extra Dom elements, use conditional rendering.
+8) If we are building application responsive try to use Media query & Flex box CSS.
+9) Use Error boundaries for displaying appropriate error messages to the end user.(Create reusable component/functionality for showing errors)
+10) Use routing as taught in ReactJS session.
+11) Integrate all API’s into React application, which you have created in past Sessions(MongoDB & Node JS)
+
+·         Login
+
+·         Get all Categories
+
+·         Get all product/items (It should support filtering on categories).
+
+·         Save shipping and order details (show success Message after order placed)
+
+12) Use Redux for storing the State/Data of application (Use Action, Reducer, Store)
+
+13) Do the authentication as taught in ReactJS session.
+14) README file - Contains all the info to run the project
